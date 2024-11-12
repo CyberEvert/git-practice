@@ -12,7 +12,7 @@ public class Main {
         String name = scanner.nextLine();
         System.out.println("What is your age?");
 
-        int number = 9;
+        int number = 26;
         System.out.println(number);
     }
 }
